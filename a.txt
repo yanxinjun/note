@@ -1,4 +1,8 @@
 test git!
 the first change
 the second change
+<<<<<<< HEAD
 the third change
+=======
+this is change on test branch
+>>>>>>> test
